@@ -1,5 +1,5 @@
 {% set name = "genericache" %}
-{% set version = "0.1.3" %}
+{% set version = "0.1.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/genericache-{{ version }}.tar.gz
-  sha256: 60283c86e90cc7bdc9d552bd080640a058ba323c2f153b899cb0468f5039dd2b
+  sha256: bf3dee44965263fbe0e14479d94ec33ce7200d144f5bb37505735df003aecb24
 
 build:
   noarch: python
