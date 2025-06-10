@@ -145,6 +145,3 @@ Feedstock Maintainers
 
 * [@Tomaz-Vieira](https://github.com/Tomaz-Vieira/)
 
-
-<!-- dummy commit to enable rerendering -->
-
